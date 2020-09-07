@@ -1,6 +1,6 @@
 # IAS-FHSTP
 
 Students:
-  Jacobi Marco - mt181128
-  Jarmic Alexander - mt181128
-  Salzer Lukas - mt181028
+  <br>Jacobi Marco - mt181128
+  <br>Jarmic Alexander - mt181128
+  <br>Salzer Lukas - mt181028
